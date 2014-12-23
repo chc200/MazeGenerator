@@ -1,0 +1,4 @@
+MazeGenerator
+=============
+
+Generates perfect maze
